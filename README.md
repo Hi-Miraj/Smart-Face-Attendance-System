@@ -64,7 +64,8 @@ Setup the Environment:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/smart-facial-recognition-attendance.git
+git clone https://github.com/Hi-Miraj
+/smart-facial-recognition-attendance.git
 cd smart-facial-recognition-attendance
 Install dependencies:
 bash
