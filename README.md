@@ -83,7 +83,6 @@ requests
 Firebase Configuration:
 
 Set up a Firebase project and create a service account key.
-Replace 'face-detection-31d91-firebase-adminsdk-89zyu-2ab2461b00.json' with the path to your Firebase service account key JSON file.
 Arduino Configuration:
 
 Connect an Arduino board to your computer and set the correct COM port in the script (e.g., 'COM4').
